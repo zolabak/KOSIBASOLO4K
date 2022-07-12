@@ -1,0 +1,139 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="4107" tvg-logo="http://zolabak.ddns.net/picon/hustlertv.png" tvg-id="1:0:1:100B:451:35:C00000:0:0:0:" tvg-name="Hustler TV",Hustler TV group-title="Adult 19E"
+#EXTVLCOPT:program=4107
+http://zolabak.ddns.net:18001/1:0:1:100B:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4107" tvg-logo="http://zolabak.ddns.net/picon/hustlertv.png" tvg-id="1:0:16:100B:451:35:C00000:0:0:0:" tvg-name="Hustler TV",Hustler TV group-title="Adult 19E"
+#EXTVLCOPT:program=4107
+http://zolabak.ddns.net:18001/1:0:16:100B:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4109" tvg-logo="http://zolabak.ddns.net/picon/hustlertvcz.png" tvg-id="1:0:16:100D:451:35:C00000:0:0:0:" tvg-name="Hustler TV CZ",Hustler TV CZ group-title="Adult 19E"
+#EXTVLCOPT:program=4109
+http://zolabak.ddns.net:18001/1:0:16:100D:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4064" tvg-logo="http://zolabak.ddns.net/picon/vivid.png" tvg-id="1:0:16:FE0:451:35:C00000:0:0:0:" tvg-name="Vivid",Vivid group-title="Adult 19E"
+#EXTVLCOPT:program=4064
+http://zolabak.ddns.net:18001/1:0:16:FE0:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4064" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:1:FE0:451:35:C00000:0:0:0:" tvg-name="Vivid TV (Dutch)",Vivid TV (Dutch) group-title="Adult 19E"
+#EXTVLCOPT:program=4064
+http://zolabak.ddns.net:18001/1:0:1:FE0:451:35:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4065" tvg-logo="http://zolabak.ddns.net/picon/vividcz.png" tvg-id="1:0:16:FE1:451:35:C00000:0:0:0:" tvg-name="Vivid CZ",Vivid CZ group-title="Adult 19E"
+#EXTVLCOPT:program=4065
+http://zolabak.ddns.net:18001/1:0:16:FE1:451:35:C00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="16901" tvg-logo="http://zolabak.ddns.net/picon/dorceltvhd.png" tvg-id="1:0:19:4205:2F44:13E:820000:0:0:0:" tvg-name="Dorcel TV HD",Dorcel TV HD group-title="Adult 13E"
+#EXTVLCOPT:program=16901
+http://zolabak.ddns.net:18001/1:0:19:4205:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16928" tvg-logo="http://zolabak.ddns.net/picon/hustlerhd.png" tvg-id="1:0:19:4220:2F44:13E:820000:0:0:0:" tvg-name="Hustler HD",Hustler HD group-title="Adult 13E"
+#EXTVLCOPT:program=16928
+http://zolabak.ddns.net:18001/1:0:19:4220:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16929" tvg-logo="http://zolabak.ddns.net/picon/bluehustler.png" tvg-id="1:0:19:4221:2F44:13E:820000:0:0:0:" tvg-name="Blue Hustler",Blue Hustler group-title="Adult 13E"
+#EXTVLCOPT:program=16929
+http://zolabak.ddns.net:18001/1:0:19:4221:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16903" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:4207:2F44:13E:820000:0:0:0:" tvg-name="Brazzers HD",Brazzers HD group-title="Adult 13E"
+#EXTVLCOPT:program=16903
+http://zolabak.ddns.net:18001/1:0:19:4207:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16999" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:4267:3DB8:13E:820000:0:0:0:" tvg-name="Vivid Red HD",Vivid Red HD group-title="Adult 13E"
+#EXTVLCOPT:program=16999
+http://zolabak.ddns.net:18001/1:0:19:4267:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="7355" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:1CBB:1CE8:71:820000:0:0:0:" tvg-name="Vivid Touch",Vivid Touch group-title="Adult 13E" 
+#EXTVLCOPT:program=7355
+http://zolabak.ddns.net:18001/1:0:19:1CBB:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16932" tvg-logo="http://zolabak.ddns.net/picon/redlighthd.png" tvg-id="1:0:19:4224:3DB8:13E:820000:0:0:0:" tvg-name="Redlight HD",Redlight HD group-title="Adult 13E"
+#EXTVLCOPT:program=16932
+http://zolabak.ddns.net:18001/1:0:19:4224:3DB8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="4808" tvg-logo="http://zolabak.ddns.net/picon/playboy.png" tvg-id="1:0:19:12C8:2E7C:13E:820000:0:0:0:" tvg-name="Playboy HD",Playboy HD group-title="Adult 13E"
+#EXTVLCOPT:program=4808
+http://zolabak.ddns.net:18001/1:0:19:12C8:2E7C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="16930" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:4222:2F44:13E:820000:0:0:0:" tvg-name="Private HD",Private HD group-title="Adult 13E"
+#EXTVLCOPT:program=16930
+http://zolabak.ddns.net:18001/1:0:19:4222:2F44:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="468" tvg-logo="http://zolabak.ddns.net/picon/xxl.png" tvg-id="1:0:19:1D4:26AC:13F:820000:0:0:0:" tvg-name="XXL",XXL group-title="Adult 13E"
+#EXTVLCOPT:program=468
+http://zolabak.ddns.net:18001/1:0:19:1D4:26AC:13F:820000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="21124" tvg-logo="http://zolabak.ddns.net/picon/manx.png" tvg-id="1:0:19:5284:C96:3:EB0000:0:0:0:" tvg-name="Man-X",Man-X group-title="Adult 23E"
+#EXTVLCOPT:program=21124
+http://zolabak.ddns.net:18001/1:0:19:5284:C96:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-chno="15612" tvg-logo="http://zolabak.ddns.net/picon/leotv.png" tvg-id="1:0:19:3CFC:C95:3:EB0000:0:0:0:" tvg-name="Leo TV",Leo TV group-title="Adult 23E"
+#EXTVLCOPT:program=15612
+http://zolabak.ddns.net:18001/1:0:19:3CFC:C95:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-chno="14120" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:3728:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Gold CZ",Penthouse Gold CZ group-title="Adult 23E"
+#EXTVLCOPT:program=14120
+http://zolabak.ddns.net:18001/1:0:19:3728:C8E:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-chno="14122" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:372A:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Quickies CZ",Penthouse Quickies CZ group-title="Adult 23E"
+#EXTVLCOPT:program=14122
+http://zolabak.ddns.net:18001/1:0:19:372A:C8E:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-chno="14119" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:3727:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Gold",Penthouse Gold group-title="Adult 23E"
+#EXTVLCOPT:program=14119
+http://zolabak.ddns.net:18001/1:0:19:3727:C8E:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-chno="14121" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:3729:C8E:3:EB0000:0:0:0:" tvg-name="Penthouse Quickies",Penthouse Quickies group-title="Adult 23E"
+#EXTVLCOPT:program=14121
+http://zolabak.ddns.net:18001/1:0:19:3729:C8E:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-chno="790" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:316:C94:3:EB0000:0:0:0:" tvg-name="Vixen HD",Vixen HD group-title="Adult 23E"
+#EXTVLCOPT:program=790
+http://zolabak.ddns.net:18001/1:0:19:316:C94:3:EB0000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="1007" tvg-logo="http://zolabak.ddns.net/picon/dorcelxxxhd.png" tvg-id="1:0:19:3EF:51A4:16E:A00000:0:0:0:" tvg-name="Dorcel XXX HD",Dorcel XXX HD group-title="Adult 16E"
+#EXTVLCOPT:program=1007
+http://zolabak.ddns.net:18001/1:0:19:3EF:51A4:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="1211" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:4BB:76C1:16E:A00000:0:0:0:" tvg-name="Leo Tv / Extasi TV",Leo Tv / Extasi TV group-title="Adult 16E"
+#EXTVLCOPT:program=1211
+http://zolabak.ddns.net:18001/1:0:19:4BB:76C1:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="2715" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:A9B:9DD0:16E:A0AC13:0:0:0:" tvg-name="Erox",Erox group-title="Adult 16E"
+#EXTVLCOPT:program=2715
+http://zolabak.ddns.net:18001/1:0:19:A9B:9DD0:16E:A0AC13:0:0:0:
+#EXTINF:-1 tvg-chno="601" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:259:C418:16E:A00000:0:0:0:" tvg-name="Extasy 4K",Extasy 4K group-title="Adult 16E"
+#EXTVLCOPT:program=601
+http://zolabak.ddns.net:18001/1:0:19:259:C418:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="2714" tvg-logo="http://zolabak.ddns.net/picon/eroxxx.png" tvg-id="1:0:19:A9A:9DD0:16E:A0AC13:0:0:0:" tvg-name="EroXXX HD",EroXXX HD group-title="Adult 16E"
+#EXTVLCOPT:program=2714
+http://zolabak.ddns.net:18001/1:0:19:A9A:9DD0:16E:A0AC13:0:0:0:
+#EXTINF:-1 tvg-chno="1211" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:1F:4BB:76C1:16E:A00000:0:0:0:" tvg-name="Extasy HD",Extasy HD group-title="Adult 16E"
+#EXTVLCOPT:program=1211
+http://zolabak.ddns.net:18001/1:0:1F:4BB:76C1:16E:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="601" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:1F:259:C418:16E:A00000:0:0:0:" tvg-name="Extasy 4K",Extasy 4K group-title="Adult 16E"
+#EXTVLCOPT:program=601
+http://zolabak.ddns.net:18001/1:0:1F:259:C418:16E:A00000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="3027" tvg-logo="http://zolabak.ddns.net/picon/dorceltv.png" tvg-id="1:0:1:BD3:AF3:BB:E080000:0:0:0:" tvg-name="Dorcel TV",Dorcel TV group-title="Adult 0.8E"
+#EXTVLCOPT:program=3027
+http://zolabak.ddns.net:18001/1:0:1:BD3:AF3:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30909" tvg-logo="http://zolabak.ddns.net/picon/privatetv.png" tvg-id="1:0:1:78BD:2C5:600:E080000:0:0:0:" tvg-name="Private TV",Private TV group-title="Adult 0.8E"
+#EXTVLCOPT:program=30909
+http://zolabak.ddns.net:18001/1:0:1:78BD:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30928" tvg-logo="http://zolabak.ddns.net/picon/privatetv.png" tvg-id="1:0:1:78D0:2C5:600:E080000:0:0:0:" tvg-name="Private TV.",Private TV. group-title="Adult 0.8E"
+#EXTVLCOPT:program=30928
+http://zolabak.ddns.net:18001/1:0:1:78D0:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1033" tvg-logo="http://zolabak.ddns.net/picon/superone.png" tvg-id="1:0:1:409:2:1:E080000:0:0:0:" tvg-name="SuperOne",SuperOne group-title="Adult 0.8E"
+#EXTVLCOPT:program=1033
+http://zolabak.ddns.net:18001/1:0:1:409:2:1:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="1033" tvg-logo="http://zolabak.ddns.net/picon/superone.png" tvg-id="1:0:1:409:2:1:E0831B3:0:0:0:" tvg-name="Superone",Superone group-title="Adult 0.8E"
+#EXTVLCOPT:program=1033
+http://zolabak.ddns.net:18001/1:0:1:409:2:1:E0831B3:0:0:0:
+#EXTINF:-1 tvg-chno="30309" tvg-logo="http://zolabak.ddns.net/images/default_picon.png" tvg-id="1:0:19:7665:2BF:600:E080000:0:0:0:" tvg-name="Vixen HD",Vixen HD group-title="Adult 0.8E"
+#EXTVLCOPT:program=30309
+http://zolabak.ddns.net:18001/1:0:19:7665:2BF:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30124" tvg-logo="http://zolabak.ddns.net/picon/eroxxx.png" tvg-id="1:0:16:75AC:2BD:600:E080000:0:0:0:" tvg-name="Eroxxx",Eroxxx group-title="Adult 0.8E"
+#EXTVLCOPT:program=30124
+http://zolabak.ddns.net:18001/1:0:16:75AC:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2023" tvg-logo="http://zolabak.ddns.net/picon/eroxxx.png" tvg-id="1:0:16:7E7:AF2:BB:E080000:0:0:0:" tvg-name="Eroxxx",Eroxxx group-title="Adult 0.8E"
+#EXTVLCOPT:program=2023
+http://zolabak.ddns.net:18001/1:0:16:7E7:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30124" tvg-logo="http://zolabak.ddns.net/picon/eroxxx.png" tvg-id="1:0:1:75AC:2BD:600:E080000:0:0:0:" tvg-name="EroXXX HD",EroXXX HD group-title="Adult 0.8E"
+#EXTVLCOPT:program=30124
+http://zolabak.ddns.net:18001/1:0:1:75AC:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="2023" tvg-logo="http://zolabak.ddns.net/picon/eroxxx.png" tvg-id="1:0:19:7E7:AF2:BB:E080000:0:0:0:" tvg-name="EroXXX HD",EroXXX HD group-title="Adult 0.8E"
+#EXTVLCOPT:program=2023
+http://zolabak.ddns.net:18001/1:0:19:7E7:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30915" tvg-logo="http://zolabak.ddns.net/picon/bluehustler.png" tvg-id="1:0:1:78C3:2C5:600:E080000:0:0:0:" tvg-name="Blue Hustler",Blue Hustler group-title="Adult 0.8W"
+#EXTVLCOPT:program=30915
+http://zolabak.ddns.net:18001/1:0:1:78C3:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30920" tvg-logo="http://zolabak.ddns.net/picon/hustler.png" tvg-id="1:0:1:78C8:2C5:600:E080000:0:0:0:" tvg-name="Hustler",Hustler group-title="Adult 0.8E"
+#EXTVLCOPT:program=30920
+http://zolabak.ddns.net:18001/1:0:1:78C8:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-chno="30929" tvg-logo="http://zolabak.ddns.net/picon/hustler.png" tvg-id="1:0:1:78D1:2C5:600:E080000:0:0:0:" tvg-name="Hustler.",Hustler. group-title="Adult 0.8E"
+#EXTVLCOPT:program=30929
+http://zolabak.ddns.net:18001/1:0:1:78D1:2C5:600:E080000:0:0:0:
